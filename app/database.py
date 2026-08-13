@@ -1,6 +1,6 @@
 from neo4j import GraphDatabase
 
-from app.config import (
+from config import (
     COGNODB_URI,
     COGNODB_USERNAME,
     COGNODB_PASSWORD,

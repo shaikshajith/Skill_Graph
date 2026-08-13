@@ -1,4 +1,4 @@
-from app.database import Database
+from database import Database
 
 
 def get_candidate_skills(candidate_id):
