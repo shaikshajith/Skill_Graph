@@ -7,7 +7,6 @@ from queries import (
     get_company_jobs,
     get_related_skills,
     get_multi_hop_connections,
-    get_all_candidates
 )
 
 
