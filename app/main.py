@@ -51,7 +51,6 @@ page = st.sidebar.radio(
         "Company Jobs",
         "Related Skills",
         "Graph Connections",
-        "All Candidates"
     ],
 )
 
