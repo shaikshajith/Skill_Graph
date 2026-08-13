@@ -1,6 +1,6 @@
 import streamlit as st
 
-from queries import (
+from app.queries import (
     get_candidate_skills,
     find_matching_jobs,
     get_missing_skills,
