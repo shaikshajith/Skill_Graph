@@ -3,6 +3,11 @@
 > A graph-based skill and job matching application built with **Python, Streamlit, CognoDB, Neo4j Python Driver, and Cypher**.
 
 ---
+## 🌐 Live Demo
+
+🚀 **Try SkillGraph Live:** [Open SkillGraph Application](https://skillgraph-bnipddc5fwfkfuzd6zwevw.streamlit.app)
+
+The application is deployed using **Streamlit Cloud** and connected to **CognoDB Cloud** for real-time graph-based skill and job analysis.
 
 ## 📌 Overview
 
